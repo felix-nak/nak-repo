@@ -1,2 +1,2 @@
-
-das ist ein Konflikt
+Diese Textdatei ist für die Prüfung
+merge conflict
